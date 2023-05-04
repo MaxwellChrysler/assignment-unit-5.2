@@ -2,18 +2,17 @@ header {
     background-color:royalblue;
     color:aliceblue; 
     text-align: center;
+    
 }
 
 main{
     background-color: lightgrey;
     background-repeat: repeat;
-    padding:1 em;
-
-
+    padding: 1 em;
 }
 
 body{
     margin: 0;
     background-image: url("record.png") ;
-
+    
 }
